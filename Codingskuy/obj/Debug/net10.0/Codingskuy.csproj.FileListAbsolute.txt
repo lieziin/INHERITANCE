@@ -1,0 +1,14 @@
+C:\Ras\Codingskuy\obj\Debug\net10.0\Codingskuy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ras\Codingskuy\obj\Debug\net10.0\Codingskuy.AssemblyInfoInputs.cache
+C:\Ras\Codingskuy\obj\Debug\net10.0\Codingskuy.AssemblyInfo.cs
+C:\Ras\Codingskuy\obj\Debug\net10.0\Codingskuy.csproj.CoreCompileInputs.cache
+C:\Ras\Codingskuy\bin\Debug\net10.0\Codingskuy.exe
+C:\Ras\Codingskuy\bin\Debug\net10.0\Codingskuy.deps.json
+C:\Ras\Codingskuy\bin\Debug\net10.0\Codingskuy.runtimeconfig.json
+C:\Ras\Codingskuy\bin\Debug\net10.0\Codingskuy.dll
+C:\Ras\Codingskuy\bin\Debug\net10.0\Codingskuy.pdb
+C:\Ras\Codingskuy\obj\Debug\net10.0\Codingskuy.dll
+C:\Ras\Codingskuy\obj\Debug\net10.0\refint\Codingskuy.dll
+C:\Ras\Codingskuy\obj\Debug\net10.0\Codingskuy.pdb
+C:\Ras\Codingskuy\obj\Debug\net10.0\Codingskuy.genruntimeconfig.cache
+C:\Ras\Codingskuy\obj\Debug\net10.0\ref\Codingskuy.dll
