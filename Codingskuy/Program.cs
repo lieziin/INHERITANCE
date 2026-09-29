@@ -18,6 +18,9 @@ namespace GameInteritanceDemo
             Console.WriteLine("\n3. Membuat objek ArchMage (dengan konsturktor berparameter)");
            ArchMage archmage = new ArchMage(120, 80, "AM-001", "khadgar", 110, "Karazhan");
             archmage.DisplayBaseData();
+            Console.WriteLine("\n4. Membuat objek Warrior dengan konstruktor default");
+            ClassWarrior defaultWarrior = new ClassWarrior();
+            defaultWarrior.DisplayData();
 
             Console.ReadKey();
         }

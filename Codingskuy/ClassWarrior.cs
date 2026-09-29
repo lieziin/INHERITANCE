@@ -6,7 +6,7 @@ namespace GameInteritanceDemo
         public int bonus;
 
 
-        public ClassWarrior()
+        public ClassWarrior() : base()
         {
             Console.WriteLine("----> konstruktor default Warrior <----");
         }
